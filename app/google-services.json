@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "161659385433",
+    "firebase_url": "https://tricoffee-77777-default-rtdb.firebaseio.com",
+    "project_id": "tricoffee-77777",
+    "storage_bucket": "tricoffee-77777.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161659385433:android:fe2c2d509c8d33dee1e348",
+        "android_client_info": {
+          "package_name": "com.example.TriCoffee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161659385433-gjh1h10r41l0qcomjqv877h5rm6nv5v6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbvrKEWxz2E2Ap3vt-qF8UPYYkMbMESPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161659385433-gjh1h10r41l0qcomjqv877h5rm6nv5v6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

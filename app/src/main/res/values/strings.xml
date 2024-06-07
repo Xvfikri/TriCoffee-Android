@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TriCoffee</string>
+    <string name="next">Next</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_web_client_id">161659385433-gjh1h10r41l0qcomjqv877h5rm6nv5v6.apps.googleusercontent.com</string>
+</resources>
